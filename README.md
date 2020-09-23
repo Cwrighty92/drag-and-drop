@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Overview
 
-This project uses styled components, lodash, React and Typescript. Its a simple component on a page with drag and drop functionality 
+This project uses styled components, lodash, React and Typescript. Its a simple component on a page with drag and drop functionality using Reacts hooks
 
 ### `npm start`
 
