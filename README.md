@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This project uses styled components, lodash, React and Typescript. Its a simple component on a page with drag and drop functionality 
 
 ### `npm start`
 
